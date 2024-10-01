@@ -1,0 +1,151 @@
+{
+  "children": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "lastName": "Smith",
+      "age": 5,
+      "gender": "Female",
+      "checkedIn": true,
+      "checkInTime": "21:01",
+      "checkOutTime": "",
+      "address": "123 Elm St, Springfield",
+      "guardianName": "John Smith",
+      "guardianContact": "555-1234",
+      "allergies": "None",
+      "emergencyContact": {
+        "name": "Jane Smith",
+        "relationship": "Mother",
+        "phone": "555-5678"
+      },
+      "medicalConditions": "None",
+      "notes": "Loves drawing and coloring"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "lastName": "Johnson",
+      "age": 6,
+      "gender": "Male",
+      "checkedIn": true,
+      "checkInTime": "21:01",
+      "checkOutTime": "",
+      "address": "456 Oak St, Springfield",
+      "guardianName": "Michael Johnson",
+      "guardianContact": "555-2345",
+      "allergies": "Peanuts",
+      "emergencyContact": {
+        "name": "Sarah Johnson",
+        "relationship": "Mother",
+        "phone": "555-6789"
+      },
+      "medicalConditions": "None",
+      "notes": "Enjoys playing soccer"
+    },
+    {
+      "id": "3",
+      "name": "Charlie",
+      "lastName": "Brown",
+      "age": 4,
+      "gender": "Male",
+      "checkedIn": false,
+      "checkInTime": "",
+      "checkOutTime": "",
+      "address": "789 Maple St, Springfield",
+      "guardianName": "David Brown",
+      "guardianContact": "555-3456",
+      "allergies": "None",
+      "emergencyContact": {
+        "name": "Emily Brown",
+        "relationship": "Mother",
+        "phone": "555-7890"
+      },
+      "medicalConditions": "None",
+      "notes": "Loves playing with blocks"
+    },
+    {
+      "id": "4",
+      "name": "Daisy",
+      "lastName": "Taylor",
+      "age": 5,
+      "gender": "Female",
+      "checkedIn": true,
+      "checkInTime": "21:02",
+      "checkOutTime": "",
+      "address": "101 Pine St, Springfield",
+      "guardianName": "Christopher Taylor",
+      "guardianContact": "555-4567",
+      "allergies": "None",
+      "emergencyContact": {
+        "name": "Emma Taylor",
+        "relationship": "Mother",
+        "phone": "555-8901"
+      },
+      "medicalConditions": "None",
+      "notes": "Enjoys singing and dancing"
+    },
+    {
+      "id": "5",
+      "name": "Emily",
+      "lastName": "Davis",
+      "age": 6,
+      "gender": "Female",
+      "checkedIn": false,
+      "checkInTime": "",
+      "checkOutTime": "",
+      "address": "202 Birch St, Springfield",
+      "guardianName": "Daniel Davis",
+      "guardianContact": "555-0123",
+      "allergies": "Eggs",
+      "emergencyContact": {
+        "name": "Olivia Davis",
+        "relationship": "Mother",
+        "phone": "555-4567"
+      },
+      "medicalConditions": "None",
+      "notes": "Enjoys playing with dolls"
+    },
+    {
+      "id": "6",
+      "name": "Frank",
+      "lastName": "Wilson",
+      "age": 4,
+      "gender": "Male",
+      "checkedIn": false,
+      "checkInTime": "",
+      "checkOutTime": "",
+      "address": "303 Cedar St, Springfield",
+      "guardianName": "Matthew Wilson",
+      "guardianContact": "555-2345",
+      "allergies": "None",
+      "emergencyContact": {
+        "name": "Isabella Wilson",
+        "relationship": "Mother",
+        "phone": "555-6789"
+      },
+      "medicalConditions": "None",
+      "notes": "Enjoys playing with toy cars"
+    },
+    {
+      "id": "7",
+      "name": "Grace",
+      "lastName": "Martinez",
+      "age": 5,
+      "gender": "Female",
+      "checkedIn": false,
+      "checkInTime": "",
+      "checkOutTime": "",
+      "address": "404 Elm St, Springfield",
+      "guardianName": "Andrew Martinez",
+      "guardianContact": "555-7890",
+      "allergies": "None",
+      "emergencyContact": {
+        "name": "Mia Martinez",
+        "relationship": "Mother",
+        "phone": "555-1234"
+      },
+      "medicalConditions": "None",
+      "notes": "Likes playing with puzzles"
+    }
+  ]
+}
